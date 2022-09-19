@@ -12,7 +12,7 @@
         <id>website-released</id>
         <link href="https://thnk.arthuro555.com/blog/website-released"/>
         <updated>2022-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[{JSON.stringify({]]></summary>
+        <summary type="html"><![CDATA[I am happy to announce the opening of the THNK website!]]></summary>
         <content type="html"><![CDATA[<p>THNK now has a website!</p><p>It is built upon Docusaurus 2.0, and will be home to the documentation and the blog/devlog of THNK. You can submit modifications to it via GitHub, and are welcome to help. I hope to achieve to build together a quality resource for understanding THNK.</p><p>That's it for now, there is not much to say yet. See you later for more 😉!</p>]]></content>
         <author>
             <name>Arthur Pacaud</name>

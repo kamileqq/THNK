@@ -13,7 +13,7 @@
             <link>https://thnk.arthuro555.com/blog/website-released</link>
             <guid>website-released</guid>
             <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[{JSON.stringify({]]></description>
+            <description><![CDATA[I am happy to announce the opening of the THNK website!]]></description>
             <content:encoded><![CDATA[<p>THNK now has a website!</p><p>It is built upon Docusaurus 2.0, and will be home to the documentation and the blog/devlog of THNK. You can submit modifications to it via GitHub, and are welcome to help. I hope to achieve to build together a quality resource for understanding THNK.</p><p>That's it for now, there is not much to say yet. See you later for more 😉!</p>]]></content:encoded>
             <category>website</category>
             <category>docs</category>
