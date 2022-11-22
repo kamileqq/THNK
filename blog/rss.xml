@@ -4,10 +4,21 @@
         <title>THNK Blog</title>
         <link>https://thnk.arthuro555.com/blog</link>
         <description>THNK Blog</description>
-        <lastBuildDate>Sun, 08 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A new design for THNK]]></title>
+            <link>https://thnk.arthuro555.com/blog/new-design</link>
+            <guid>new-design</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[THNK got a relooking, brought by LeoRed 😎]]></description>
+            <content:encoded><![CDATA[<p>THNK just got a relooking! 😎</p><p><a href="https://github.com/Midhil457" target="_blank" rel="noopener noreferrer">Leo Red</a> designed a new set of icons and banners for THNK. The website has been updated to use them, and the extensions' icons will soon be updated as well. Shoutout to Leo, buy him a coffee if you like his designs:</p><a href="https://www.buymeacoffee.com/leored" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Leo Red A Coffee" class="nozoom img_ev3q" style="height:60px;width:217px"></a>]]></content:encoded>
+            <category>website</category>
+            <category>announcement</category>
+            <category>design</category>
+        </item>
         <item>
             <title><![CDATA[The THNK website has been released!]]></title>
             <link>https://thnk.arthuro555.com/blog/website-released</link>

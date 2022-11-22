@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthnk_docs=self.webpackChunkthnk_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A new design for THNK","permalink":"/blog/new-design"},{"title":"The THNK website has been released!","permalink":"/blog/website-released"}]}')}}]);
